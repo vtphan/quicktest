@@ -1,6 +1,11 @@
 
 quicktest.py is a short Python script that facilitates very simple testing of program.
 
+Usage:
+```
+	python quicktest.py
+```
+
 TEST_FILE_INDEX lists all indices that define the difference between your test data. 
 
 Examples:
